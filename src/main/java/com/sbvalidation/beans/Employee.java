@@ -32,6 +32,7 @@ public class Employee {
 	private LocalDate doj;
 	@Email(message = "Check email address")
 	private String email;
+	private String check;
 	
 	
 }
